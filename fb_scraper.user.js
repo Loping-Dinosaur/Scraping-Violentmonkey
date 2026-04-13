@@ -5,6 +5,8 @@
 // @description  Automates listing extraction with Auto-Scroll, Start, Pause, Stop & Save - UI in Bottom Right
 // @match        https://www.facebook.com/marketplace/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/fb_scraper.user.js
+// @downloadURL  https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/fb_scraper.user.js
 // ==/UserScript==
 
 (function () {
