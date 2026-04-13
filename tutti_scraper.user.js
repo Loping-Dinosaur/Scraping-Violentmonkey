@@ -6,6 +6,8 @@
 // @match        https://www.tutti.ch/*/q/*
 // @match        https://www.tutti.ch/*/vi/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/tutti_scraper.user.js
+// @downloadURL  https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/tutti_scraper.user.js
 // ==/UserScript==
 
 (function () {
