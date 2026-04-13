@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FB Marketplace Auto-Scraper
 // @namespace    http://violentmonkey.net/
-// @version      1.3.1
+// @version      1.3.2
 // @description  Automates listing extraction with Auto-Scroll, Start, Pause, Stop & Save - UI in Bottom Right
 // @match        https://www.facebook.com/marketplace/*
 // @grant        none
