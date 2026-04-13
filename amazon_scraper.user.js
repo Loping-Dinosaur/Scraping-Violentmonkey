@@ -6,6 +6,8 @@
 // @match        *://*.amazon.it/*
 // @match        *://*.amazon.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/amazon_scraper.user.js
+// @downloadURL  https://raw.githubusercontent.com/Loping-Dinosaur/Scraping-Violentmonkey/main/amazon_scraper.user.js
 // ==/UserScript==
 
 (function () {
